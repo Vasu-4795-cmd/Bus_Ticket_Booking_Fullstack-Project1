@@ -2,6 +2,3 @@
 Django
 djangorestframework
 django-cors-headers
-gunicorn
-npm run build
-vite
